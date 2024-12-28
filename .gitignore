@@ -1,0 +1,38 @@
+# Exclude specific folders
+Chapter_01_Introduction_to_Big_Data/
+Chapter_03_Spark_Environment_Setup/
+
+# Common Jupyter Notebook and Python files
+.ipynb_checkpoints/
+*.ipynb~ 
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Environment files
+.env
+*.env
+
+# IDE and editor specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+*.out
+*.pid
+*.gz
+
+# Ignore virtual environments
+venv/
+env/
+02_Read_write_data/Sinck/
