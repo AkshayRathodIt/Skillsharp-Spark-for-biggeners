@@ -1,0 +1,273 @@
+[
+    {
+      "empid": "SJ011MS",
+      "personal": {
+        "name": "Smith Jones",
+        "gender": "Male",
+        "age": 28,
+        "address": {
+          "streetaddress": "724th Street",
+          "city": "New York",
+          "state": "NY",
+          "postalcode": "10038"
+        }
+      },
+      "profile": {
+        "designation": "Deputy General",
+        "department": "Finance"
+      }
+    },
+    {
+      "empid": "MJ012KS",
+      "personal": {
+        "name": "Maria Johnson",
+        "gender": "Female",
+        "age": 32,
+        "address": {
+          "streetaddress": "8345 Main St",
+          "city": "Los Angeles",
+          "state": "CA",
+          "postalcode": "90001"
+        }
+      },
+      "profile": {
+        "designation": "Senior Analyst",
+        "department": "Marketing"
+      }
+    },
+    {
+      "empid": "BK013LP",
+      "personal": {
+        "name": "Brian Keller",
+        "gender": "Male",
+        "age": 45,
+        "address": {
+          "streetaddress": "456 Elm Avenue",
+          "city": "Chicago",
+          "state": "IL",
+          "postalcode": "60601"
+        }
+      },
+      "profile": {
+        "designation": "Director",
+        "department": "Operations"
+      }
+    },
+    {
+      "empid": "RJ014MT",
+      "personal": {
+        "name": "Rita James",
+        "gender": "Female",
+        "age": 29,
+        "address": {
+          "streetaddress": "123 Maple Road",
+          "city": "Austin",
+          "state": "TX",
+          "postalcode": "73301"
+        }
+      },
+      "profile": {
+        "designation": "HR Manager",
+        "department": "Human Resources"
+      }
+    },
+    {
+      "empid": "TM015QP",
+      "personal": {
+        "name": "Thomas Miller",
+        "gender": "Male",
+        "age": 38,
+        "address": {
+          "streetaddress": "987 Pine Street",
+          "city": "Seattle",
+          "state": "WA",
+          "postalcode": "98101"
+        }
+      },
+      "profile": {
+        "designation": "Team Lead",
+        "department": "IT"
+      }
+    },
+    {
+      "empid": "KT016NL",
+      "personal": {
+        "name": "Katherine Taylor",
+        "gender": "Female",
+        "age": 41,
+        "address": {
+          "streetaddress": "654 Oak Blvd",
+          "city": "Phoenix",
+          "state": "AZ",
+          "postalcode": "85001"
+        }
+      },
+      "profile": {
+        "designation": "Senior Consultant",
+        "department": "Strategy"
+      }
+    },
+    {
+      "empid": "SP017JL",
+      "personal": {
+        "name": "Samuel Peterson",
+        "gender": "Male",
+        "age": 50,
+        "address": {
+          "streetaddress": "321 Birch Lane",
+          "city": "Denver",
+          "state": "CO",
+          "postalcode": "80201"
+        }
+      },
+      "profile": {
+        "designation": "Vice President",
+        "department": "Sales"
+      }
+    },
+    {
+      "empid": "LA018GV",
+      "personal": {
+        "name": "Laura Adams",
+        "gender": "Female",
+        "age": 36,
+        "address": {
+          "streetaddress": "789 Walnut Dr",
+          "city": "Atlanta",
+          "state": "GA",
+          "postalcode": "30301"
+        }
+      },
+      "profile": {
+        "designation": "Project Manager",
+        "department": "Project Management"
+      }
+    },
+    {
+      "empid": "MB019WR",
+      "personal": {
+        "name": "Michael Brown",
+        "gender": "Male",
+        "age": 30,
+        "address": {
+          "streetaddress": "159 Cedar Ave",
+          "city": "Dallas",
+          "state": "TX",
+          "postalcode": "75201"
+        }
+      },
+      "profile": {
+        "designation": "Analyst",
+        "department": "Research"
+      }
+    },
+    {
+      "empid": "EW020TH",
+      "personal": {
+        "name": "Emily White",
+        "gender": "Female",
+        "age": 27,
+        "address": {
+          "streetaddress": "753 Elm St",
+          "city": "Boston",
+          "state": "MA",
+          "postalcode": "02108"
+        }
+      },
+      "profile": {
+        "designation": "Data Scientist",
+        "department": "Data Science"
+      }
+    },
+    {
+      "empid": "JB021CV",
+      "personal": {
+        "name": "James Black",
+        "gender": "Male",
+        "age": 43,
+        "address": {
+          "streetaddress": "231 Ash Lane",
+          "city": "San Diego",
+          "state": "CA",
+          "postalcode": "92101"
+        }
+      },
+      "profile": {
+        "designation": "Logistics Manager",
+        "department": "Logistics"
+      }
+    },
+    {
+      "empid": "LH022MV",
+      "personal": {
+        "name": "Linda Harris",
+        "gender": "Female",
+        "age": 39,
+        "address": {
+          "streetaddress": "451 Willow Way",
+          "city": "Miami",
+          "state": "FL",
+          "postalcode": "33101"
+        }
+      },
+      "profile": {
+        "designation": "Customer Service Manager",
+        "department": "Customer Service"
+      }
+    },
+    {
+      "empid": "AB023NF",
+      "personal": {
+        "name": "Andrew Baker",
+        "gender": "Male",
+        "age": 34,
+        "address": {
+          "streetaddress": "121 Poplar St",
+          "city": "San Francisco",
+          "state": "CA",
+          "postalcode": "94101"
+        }
+      },
+      "profile": {
+        "designation": "Network Engineer",
+        "department": "Infrastructure"
+      }
+    },
+    {
+      "empid": "GW024PT",
+      "personal": {
+        "name": "Grace Wilson",
+        "gender": "Female",
+        "age": 26,
+        "address": {
+          "streetaddress": "333 Aspen Rd",
+          "city": "Houston",
+          "state": "TX",
+          "postalcode": "77001"
+        }
+      },
+      "profile": {
+        "designation": "Intern",
+        "department": "Administration"
+      }
+    },
+    {
+      "empid": "CW025GK",
+      "personal": {
+        "name": "Charles Walker",
+        "gender": "Male",
+        "age": 47,
+        "address": {
+          "streetaddress": "678 Spruce Court",
+          "city": "Portland",
+          "state": "OR",
+          "postalcode": "97201"
+        }
+      },
+      "profile": {
+        "designation": "Legal Advisor",
+        "department": "Legal"
+      }
+    }
+  ]
+  
